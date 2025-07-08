@@ -17,7 +17,7 @@ Contact form / contact details
 🛠️ Tech Stack
 HTML5, CSS3, JavaScript
 
-Bootstrap / Tailwind CSS (if used)
+Tailwind CSS 
 
 React.js
 
